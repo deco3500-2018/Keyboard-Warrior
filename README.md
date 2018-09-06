@@ -1,7 +1,7 @@
 # Keyboard-Warrior
 Collective Action (Fake news)
-Example
-<a href="https://www.snopes.com/video/">Snopes</a>
+<p>Example
+<a href="https://www.snopes.com/video/">Snopes</a></p>
 # Proposal
 <a href="https://github.com/deco3500-2018/Keyboard-Warrior/wiki/Concept-Proposal">Concept Proposal</a>
 # Team
