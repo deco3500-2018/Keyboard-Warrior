@@ -27,6 +27,7 @@ Collective Action (Fake news)
 <p>4. Initialize xUtils3 in Application</p>
 <h3>Configuration before use</h3>
 <p>Required permissions</p>
+
 ```javascript
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
