@@ -10,9 +10,14 @@ Collective Action (Fake news)
 
 # App
 
-<h1>Method Implementation</h1>
+<h2>Method Implementation Reference</h2>
 <p><b>xUtils3:</b></p>https://github.com/wyouflf/xUtils3
 <p><b>SlidingMenu:</b></p>https://github.com/jfeinstein10/SlidingMenu
+
+<h2>Image/Icon Reference</h2>
+<p><b>News icon:</b></p>https://icons8.com/icon/set/news/all
+<p><b>Home icon:</b></p>https://icons8.com/icon/set/home/all
+<p><b>Me icon:</b></p>https://icons8.com/icon/set/me/all
 
 
 # Team
