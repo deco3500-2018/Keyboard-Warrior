@@ -19,6 +19,12 @@ Collective Action (Fake news)
 <p><b>Home icon:</b></p>https://icons8.com/icon/set/home/all
 <p><b>Me icon:</b></p>https://icons8.com/icon/set/me/all
 
+<h3>xUtils3 Usage</h3>
+<p><b>Main function:</b> Database Manipulation, Request data from Network, Initialization Control</p>
+<p>1. Download the .zip file and Extract Files</p>
+<p>2. Run xUtils3</p>
+<p>3. Associated with xUtils3 library</p>
+<p>4. Initialize xUtils3 in Application</p>
 
 # Team
 <p>Cheung Yiu Hin(43849813)</p>
