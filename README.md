@@ -8,7 +8,7 @@ Collective Action (Fake news)
 # Prototype
 <a href="https://github.com/deco3500-2018/Keyboard-Warrior/wiki/Week-09">Prototype</a>
 
-# App
+# <a href="https://github.com/deco3500-2018/Keyboard-Warrior/wiki/App">App</a>
 
 <h2>Method Implementation Reference</h2>
 <p><b>xUtils3:</b></p>https://github.com/wyouflf/xUtils3
@@ -19,19 +19,7 @@ Collective Action (Fake news)
 <p><b>Home icon:</b></p>https://icons8.com/icon/set/home/all
 <p><b>Me icon:</b></p>https://icons8.com/icon/set/me/all
 
-<h2>xUtils3 Usage</h2>
-<p><b>Main function:</b> Database Manipulation, Request data from Network, Initialization Control</p>
-<p>1. Download the .zip file and Extract Files</p>
-<p>2. Run xUtils3</p>
-<p>3. Associated with xUtils3 library</p>
-<p>4. Initialize xUtils3 in Application</p>
-<h3>Configuration before use</h3>
-<p>Required permissions</p>
 
-```javascript
-<uses-permission android:name="android.permission.INTERNET" />
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-```
 
 # Team
 <p>Cheung Yiu Hin(43849813)</p>
