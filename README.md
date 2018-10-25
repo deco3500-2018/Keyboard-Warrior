@@ -18,7 +18,8 @@ Collective Action (Fake news)
 <p><b>News icon:</b></p>https://icons8.com/icon/set/news/all
 <p><b>Home icon:</b></p>https://icons8.com/icon/set/home/all
 <p><b>Me icon:</b></p>https://icons8.com/icon/set/me/all
-
+<p><b>News API</b></p>https://newsapi.org/s/bbc-news-api
+<p><b>Fake News API</b></p>https://market.mashape.com/truthy/hoaxy
 
 
 # Team
