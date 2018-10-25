@@ -6,7 +6,7 @@ Collective Action (Fake news)
 # Proposal
 <a href="https://github.com/deco3500-2018/Keyboard-Warrior/wiki/Concept-Proposal">Concept Proposal</a>
 # Prototype
-<a href="https://github.com/deco3500-2018/Keyboard-Warrior/wiki/Week-09">Prototype</a>
+<a href="https://github.com/deco3500-2018/Keyboard-Warrior/wiki/Week-09-Stand-up">Prototype</a>
 
 #### <a href="https://modao.cc/app/gPwSbPu7W4ewvxHQiv3BnMiW6pzNKTl/embed">Final Prototype</a>
 
