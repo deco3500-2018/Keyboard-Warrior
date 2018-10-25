@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Keyboard Warriors</string>
+    <string name="start">START</string>
+    <string name="home">HOME</string>
+    <string name="fake_news">Fake news</string>
+    <string name="profile">Profile</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="summary">Summary</string>
+    <string name="id">id</string>
+</resources>

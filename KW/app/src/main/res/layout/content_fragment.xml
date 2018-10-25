@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.kw.kw.view.NoScrollViewPage
+        android:id="@+id/viewpager"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <RadioGroup
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/bottom_bar"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_home"
+            style="@style/bottom_tag_style"
+            android:drawableTop="@drawable/rb_home_drawable_selector"
+            android:gravity="center"
+            android:text="@string/home" />
+
+        <RadioButton
+            android:id="@+id/rb_fakenews"
+            style="@style/bottom_tag_style"
+            android:drawableTop="@drawable/rb_fakenews_drawable_selector"
+            android:gravity="center"
+            android:text="@string/fake_news" />
+
+        <RadioButton
+            android:id="@+id/rb_profile"
+            style="@style/bottom_tag_style"
+            android:drawableTop="@drawable/rb_profile_drawable_selector"
+            android:gravity="center"
+            android:text="@string/profile" />
+    </RadioGroup>
+    
+
+</LinearLayout>
